@@ -19,6 +19,10 @@ Abra no Netbeans (ou outro programa) e abra o nosso código
 Pronto, você já pode experimentar nosso código.
 ```
 
+### Diagrama de Classe
+
+"[](https://github.com/gabrielbaran/mktgames/blob/main/Diagrama%20MKTGAMES%20-%20Cadastro%20de%20Clientes.png)
+
 ## 📦 Desenvolvimento
 
 Projeto ainda em desenvolvimento.
