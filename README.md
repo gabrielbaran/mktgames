@@ -19,30 +19,31 @@ Abra no Netbeans (ou outro programa) e abra o nosso código
 Pronto, você já pode experimentar nosso código.
 ```
 
+### Diagrama de Classe
+
+![](https://github.com/gabrielbaran/mktgames/blob/main/Diagrama%20MKTGAMES%20-%20Cadastro%20de%20Clientes.png)
+
 ## 📦 Desenvolvimento
 
-Essa não é a versão final do nosso código.
+Projeto ainda em desenvolvimento.
 
 ## 🛠️ Construído com
-
-Mencione as ferramentas que você usou para criar seu projeto
 
 * [Netbeans](https://netbeans.org/) - Framework usado para fazer os códigos
 * [Creately](https://creately.com/) - Framework usado para fazer as modelagens
 * [Trello](https://trello.com/pt-BR) - Framework usado para organizar as tarefas
+* [Photoshop CS6](www.adobe.com) - Programa usado para criação do logo
 
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
-* **Nelson Gabriel** - *Desenvolvedor* - [Nelson Gabriel](https://github.com/Hellzz01)
-* **Gabriel Silva** - *Documentação e Trello* - [Gabriel Silva](https://github.com/SrgabrielBR100)
-* **Leonardo Campos** - *Desenvolvedor* - [Leonardo Campos](https://github.com/leocmps)
-* **Gabriel Baran** - *Desenvolvedor e dono do Repositório* - [Gabriel Baran](https://github.com/gabrielbaran)
+* **Nelson Gabriel** - *Desenvolvedor* - [Git](https://github.com/Hellzz01)
+* **Gabriel Silva** - *Documentação e Trello* - [Git](https://github.com/SrgabrielBR100)
+* **Leonardo Campos** - *Desenvolvedor* - [Git](https://github.com/leocmps)
+* **Gabriel Baran** - *Desenvolvedor e dono do Repositório* - [Git](https://github.com/gabrielbaran)
 
 ## 📄 Licença
 
-Este projeto está sob a licença MKTGAMES
+Este projeto está sob a licença MKTGAMES.
 
 
 
