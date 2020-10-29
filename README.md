@@ -21,19 +21,15 @@ Pronto, você já pode experimentar nosso código.
 
 ## 📦 Desenvolvimento
 
-Essa não é a versão final do nosso código.
+Projeto ainda em desenvolvimento.
 
 ## 🛠️ Construído com
-
-Mencione as ferramentas que você usou para criar seu projeto
 
 * [Netbeans](https://netbeans.org/) - Framework usado para fazer os códigos
 * [Creately](https://creately.com/) - Framework usado para fazer as modelagens
 * [Trello](https://trello.com/pt-BR) - Framework usado para organizar as tarefas
 
 ## ✒️ Autores
-
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 * **Nelson Gabriel** - *Desenvolvedor* - [Nelson Gabriel](https://github.com/Hellzz01)
 * **Gabriel Silva** - *Documentação e Trello* - [Gabriel Silva](https://github.com/SrgabrielBR100)
@@ -42,7 +38,7 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 ## 📄 Licença
 
-Este projeto está sob a licença MKTGAMES
+Este projeto está sob a licença MKTGAMES.
 
 
 
