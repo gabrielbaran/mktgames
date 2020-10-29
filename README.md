@@ -1,6 +1,6 @@
 # MKTGAMES
 
-![](/main/logogo.png)
+![](https://github.com/gabrielbaran/mktgames/blob/main/logogo.png)
 
 Nossa empresa é focada na venda de jogos e videogames. 
 Nosso time é o Nelson Gabriel, Gabriel Silva, Leonardo Campos e Gabriel Baran.
