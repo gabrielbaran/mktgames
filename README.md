@@ -35,10 +35,10 @@ Projeto ainda em desenvolvimento.
 
 ## ✒️ Autores
 
-* **Nelson Gabriel** - *Desenvolvedor* - [Nelson Gabriel](https://github.com/Hellzz01)
-* **Gabriel Silva** - *Documentação e Trello* - [Gabriel Silva](https://github.com/SrgabrielBR100)
-* **Leonardo Campos** - *Desenvolvedor* - [Leonardo Campos](https://github.com/leocmps)
-* **Gabriel Baran** - *Desenvolvedor e dono do Repositório* - [Gabriel Baran](https://github.com/gabrielbaran)
+* **Nelson Gabriel** - *Desenvolvedor* - [Git](https://github.com/Hellzz01)
+* **Gabriel Silva** - *Documentação e Trello* - [Git](https://github.com/SrgabrielBR100)
+* **Leonardo Campos** - *Desenvolvedor* - [Git](https://github.com/leocmps)
+* **Gabriel Baran** - *Desenvolvedor e dono do Repositório* - [Git](https://github.com/gabrielbaran)
 
 ## 📄 Licença
 
