@@ -32,6 +32,7 @@ Projeto ainda em desenvolvimento.
 * [Netbeans](https://netbeans.org/) - Framework usado para fazer os códigos
 * [Creately](https://creately.com/) - Framework usado para fazer as modelagens
 * [Trello](https://trello.com/pt-BR) - Framework usado para organizar as tarefas
+* [Photoshop CS6](www.adobe.com) - Programa usado para criação do logo
 
 ## ✒️ Autores
 
