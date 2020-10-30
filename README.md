@@ -23,6 +23,10 @@ Pronto, você já pode experimentar nosso código.
 
 ![](https://github.com/gabrielbaran/mktgames/blob/main/Diagrama%20MKTGAMES%20-%20Cadastro%20de%20Clientes.png)
 
+### Modelagem de BD
+
+![](https://github.com/gabrielbaran/mktgames/blob/main/Modelagem%20de%20Banco.png)
+
 ## 📦 Desenvolvimento
 
 Projeto ainda em desenvolvimento.
