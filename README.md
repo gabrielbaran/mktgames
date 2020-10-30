@@ -33,6 +33,20 @@ Projeto ainda em desenvolvimento.
 
 **Telas**
 
+```
+Principal
+```
+![](https://github.com/gabrielbaran/mktgames/blob/main/viewprincipal.png)
+
+```
+Cadastro de Cliente
+```
+![](https://github.com/gabrielbaran/mktgames/blob/main/viewcadastrocliente.png)
+
+```
+Cadastro de Produtos
+```
+![](https://github.com/gabrielbaran/mktgames/blob/main/viewcadastroproduto.png)
 
 
 ## 🛠️ Construído com
